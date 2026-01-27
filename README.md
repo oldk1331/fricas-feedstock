@@ -3,7 +3,7 @@ About fricas-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/fricas-feedstock/blob/main/LICENSE.txt)
 
-Home: https://fricas.org
+Home: https://fricas.org/
 
 Package license: BSD-3-Clause
 
@@ -16,7 +16,6 @@ Documentation: https://fricas.org/index0.html
 FriCAS is an advanced computer algebra system. Its capabilities range from
 calculus (integration and differentiation) to abstract algebra. It can plot
 functions and has integrated help system.
-
 
 Current build status
 ====================
