@@ -15,7 +15,7 @@ source:
 build:
   # Windows builds seem to only work with Cygwin
   # building on macOS fails with strange errors about zstd which seem to be related to some build/host directory confusion. It will be easier to figure this out once this is in the feedstock.
-  number: 0
+  number: 1
   skip: win or osx
 
 requirements:
